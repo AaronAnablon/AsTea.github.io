@@ -1,1 +1,1 @@
-My First Ever Embarrasing Codes using JS
+My Embarrasing Codes using JS
